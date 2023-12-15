@@ -3,7 +3,10 @@
 ## *Создание веток*
     git branch nameNewBranch - создание новой ветки 
     git branch - проверить на кокой ветке находишься
+
+ ## *Удаление веток*
     git branch -d nameBranch - удаление слитой ветки
+    git branch -D nameBranch - удаление не слитой ветки
 
 ## Слияние веток
 
